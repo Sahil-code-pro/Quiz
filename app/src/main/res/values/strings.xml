@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="please_take_part_in_quiz">Please take part in Quiz</string>
+    <string name="start">Start</string>
+    <string name="welcome">Welcome</string>
+    <string name="quiz">Quiz</string>
+    <string name="what_is_the_capital_of_inida">What is the Capital of Inida?</string>
+</resources>
